@@ -32,7 +32,7 @@ pip install -e .
 ## Quick start
 
 ```python
-from cgos_sdk import CGOSClient
+from cgos_sdk import CGOSClient 
 
 client = CGOSClient(
     base_url="https://your-governance-api.example.com",
