@@ -91,7 +91,7 @@ Pair SDK usage with your organization's policy lifecycle, human oversight workfl
 **Developed by NerveMind AI, Inc.**
 
 - Email: [support@nervemindai.com](mailto:support@nervemindai.com)
-- Repository: [https://github.com/nervemind/nervemind-cgos](https://github.com/NerveMindAI/nervemind-cgos)
+- Repository: [https://github.com/nervemindai/nervemind-cgos](https://github.com/NerveMindAI/nervemind-cgos)
 
 ## License
 
